@@ -105,8 +105,9 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
     <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/main/Prot%C3%B3tipo/Excluindo%20relat%C3%B3rio.jpg"> </td>
   </tr>
 </table>
-</div>
 ---->
+</div>
+
 
 <br>
 
