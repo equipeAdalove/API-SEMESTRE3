@@ -86,18 +86,11 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 ## ✨ Protótipo do Programa 
 <a id="prototipo"></a>
 <div align="center">
-      
-<!--table>
+<table>
   <tr>
-    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Tela%20de%20In%C3%ADcio.jpg"> </th>
-    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Home.jpg"> </th>
-    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Cadastrar%20documento.jpg"> </th>
-  </tr>
-      
-  <tr>
-    <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Cadastrar%20documento-1.jpg"> </td>
-    <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Cadastrar%20documento-2.jpg"> </td>
-    <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Editar%20documento.jpg"> </td>
+    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20Dashboard%20(Dark).png"> </th>
+    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20Dashboard%20(Dark)%20(1).png"> </th>
+    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20NCM%20(Dark).png"> </th>
   </tr>
   <tr>
     <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Home%20-%20ap%C3%B3s%20cadastro.jpg"> </td>
@@ -105,7 +98,6 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
     <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/main/Prot%C3%B3tipo/Excluindo%20relat%C3%B3rio.jpg"> </td>
   </tr>
 </table>
----->
 </div>
 
 
