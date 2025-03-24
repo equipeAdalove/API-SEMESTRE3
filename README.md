@@ -93,9 +93,9 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
     <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20NCM%20(Dark).png"> </th>
   </tr>
   <tr>
-    <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Home%20-%20ap%C3%B3s%20cadastro.jpg"> </td>
-    <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/ccc3113ed3ec1078d91d2444d4f3905f7563d93a/Prot%C3%B3tipo/Consultar%20registros.jpg"> </td>
-    <td> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE2/blob/main/Prot%C3%B3tipo/Excluindo%20relat%C3%B3rio.jpg"> </td>
+    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Light/Final%20-%20Dashboard%20(Light).png"> </td>
+    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Light/Final%20-%20Dashboard%20(Light)%20(1).png"> </td>
+    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Light/Final%20-%20NCM%20(Light).png"> </td>
   </tr>
 </table>
 </div>
