@@ -1,7 +1,7 @@
 <h1 align="center"> API ADS 3º Semestre</h1>
 
 <p align="center">
-      <img src="" alt="Adalove" width="800">
+      <img src="https://github.com/equipeAdalove/API-SEMESTRE3/blob/Sprint-1/Documenta%C3%A7%C3%A3o/assets/Banner%20-%20projeto.png" alt="Adalove" width="800">
       
 <br>
 
@@ -10,7 +10,6 @@
 <p align = "center">
   <a href = "#desafio"> Desafio </a>  |   
   <a href = "#mvp"> MVP </a>  |
-  <a href = "#arq"> Arquitetura </a>  |
   <a href ="#prototipo"> Protótipo </a>  | 
   <a href = "#demo"> Demonstração </a>  |
   <a href = "#sprint"> Sprints </a> |
@@ -19,22 +18,41 @@
   <a href = "#backlog"> Backlog do Produto </a>  | 
   <a href ="#roadmap"> Roadmap </a>  |
   <a href = "#equipe"> Equipe </a>  |
+   <a href = "#cliente"> Cliente </a>  |     
   <a href = "#docentes"> Docentes </a>
 </p>
 
 <h1 align="center">
 
 <div style="display: inline_block"><br>
-
 <img align="center" alt="Raphs-Jira" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+
+<img align="center" alt="Raphs-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img align="center" alt="Raphs-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt="Raphs-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<img align="center" alt="Raphs-TypeScript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+
+<img align="center" alt="Raphs-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+
+<img align="center" alt="Raphs-Vite" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+
+<img align="center" alt="Raphs-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+          
+<img align="center" alt="Raphs-NestJS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+
+<img align="center" alt="Raphs-Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+
+<img align="center" alt="Raphs-Postgre" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
 
 <img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
+<img align="center" alt="Raphs-VsCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+
 <img align="center" alt="Raphs-Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+       
+</div>
+
        
 </div>
 
@@ -127,7 +145,6 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 <a id="sprint"></a>
 
 ⏳ SPRINT 1:  Em andamento! <br>
-[Clique para visualizar o relatório da 1° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-1/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-1.md)
 
 🔐 SPRINT 2:  Ainda não iniciada! <br>
 
@@ -172,20 +189,20 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 <div align="center">
       
-|   Rank  |   Requisito   | Prioridade |                          User Story                             | Sprint | Status  |
+|   Rank  | Prioridade |                          User Story                             | Sprint | Status  |
 | :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
-|  1  |  RQ01 - RQ02 | Alta | Como cliente, desejo que os dados sejam normalizados e limpos utilizando o Google Colab, para garantir a qualidade das informações antes da análise. | 1 |  |
-|  2  | RQ03 - RQ05 | Alta | Como cliente , quero um relatório documentando os problemas encontrados e as correções feitas na base de dados, para qu eu tenha visibilidade sobre a qualidade dos dadose possa avaliar possíveis impactos na análise final. | 1 |   |
-|  3  | RQ02 - RQ04 | Alta | Como cliente, quero armazenar os dados tratados em um banco de dados relacional, para facilitar consultas futuras. | 1 | |
-|  4  | RQ05 | Alta | Como cliente, quero testar a comunicação entre o Front-end e o Back-end com uma funcionalidade mínima immplementada para garantir a integração entre as partes. | 1|  |
-|  5  | RQ08 | Alta | Como  usuário do sistema, quero visualizar os dados de exportação/importação segmentados por Estados, para facilitar minha análise. | 2 |   |
-|  6  |  RQ06  | Alta | Como cliente, quero que a API seja estruturada para permitir consultas detalhadas ao banco de dados para obter informações mais precisas. | 2 |  |
-|  7  |  RQ07  | Alta |Como usuário do sistema, quero pesquisar cargas por código NCM, para encontrar informações específicas rapidamente. | 2 | |
-|  8  |  RQ15  | Alta |Como usuário do sistema, eu quero um painel que classifique as exportações por meio de transporte (rodoviário, marítimo, etc.) para entender padrões logísticos. | 2 | |
-|  9  |  RQ10  | Alta | Como usuário do sistema, quero filtrar os dados por período(2014 a 2024) para realizar análises históricas. | 3 | |
-| 10  | RQ11 | Alta | Como cliente, quero exportar os dados do dashboard para outras ferramentas, como PowerBI, para que eu possa aprofundar minhas análises e obter insights mais detalhados. | 3 | |
-| 11 | RQ14 | Média | Como usuário do sistema, quero visualizar um mapa interativo, exibindo fluxos de exportação, para que eu possa entender mmelhor os mercados envolvidos e analisar tendências comerciais. | 3 |  |
-| 12  | RQ16 | Baixa | Como usuário do sistema, quero que a aplicação seja hospedada na nuvem, para que eu possa acessá-la remotamente com maior disponibilidade e confiabilidade. | 3 | |
+|  1  | Alta | Como cliente, desejo que os dados sejam normalizados e limpos utilizando o Google Colab, para garantir a qualidade das informações antes da análise. | 1 |  |
+|  2  | Alta | Como cliente, quero um relatório documentando os problemas encontrados e as correções feitas na base de dados, para que eu tenha visibilidade sobre a qualidade dos dados, e possa avaliar possíveis impactos na análise final. | 1 |   |
+|  3  | Alta | Como cliente, quero armazenar os dados tratados em um banco de dados relacional, para facilitar consultas futuras. | 1 | |
+|  4  | Alta | Como cliente, quero testar a comunicação entre o Front-end e o Back-end com uma funcionalidade mínima implementada para garantir a integração entre as partes. | 1|  |
+|  5  | Alta | Como  usuário do sistema, quero visualizar os dados de exportação/importação segmentados por Estados, para facilitar minha análise. | 2 |   |
+|  6  | Alta | Como cliente, quero que a API seja estruturada para permitir consultas detalhadas ao banco de dados para obter informações mais precisas. | 2 |  |
+|  7  | Alta | Como usuário do sistema, quero pesquisar cargas por código NCM, para encontrar informações específicas rapidamente. | 2 | |
+|  8  | Alta | Como usuário do sistema, eu quero um painel que classifique as exportações por meio de transporte (rodoviário, marítimo, etc.) para entender padrões logísticos. | 2 | |
+|  9  | Alta | Como usuário do sistema, quero filtrar os dados por período(2014 a 2024), para realizar análises históricas. | 3 | |
+| 10  | Alta | Como cliente, quero exportar os dados do dashboard para outras ferramentas, como PowerBI, para que eu possa aprofundar minhas análises e obter insights mais detalhados. | 3 | |
+| 11  | Média | Como usuário do sistema, quero visualizar um mapa interativo, exibindo fluxos de exportação, para que eu possa entender melhor os mercados envolvidos e analisar tendências comerciais. | 3 |  |
+| 12  | Baixa | Como usuário do sistema, quero que a aplicação seja hospedada na nuvem, para que eu possa acessá-la remotamente com maior disponibilidade e confiabilidade. | 3 | |
 
 </div>
 
@@ -214,6 +231,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Ramon Amorim da Silva | Dev Team | <a href="https://github.com/ramonads42"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 
 <br>
+
+## 🚀 Cliente: 
+<a id="cliente"></a>
+
+| Cliente              |        |
+| :-------------------: | :-----------: |
+| <a href='http://lattes.cnpq.br/3855964357335792'>Prof° Marcus Nascimento </a> | Curso de Logística da Faculdade de Tecnologia de São José dos Campos  |
+
 
 ## 🗝️ Docentes: 
 <a id="docentes"></a>
