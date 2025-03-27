@@ -57,29 +57,29 @@ O objetivo deste projeto é desenvolver uma plataforma web que disponibilize inf
 ## 🫧 MVP (Minimal Viable Product) 
 <a id="mvp"></a>
 <div>
-<b> MindDoc Analyzer</b> é um projeto voltado para facilitar o acesso e a análise de dados extraídos de relatórios clínicos, organizando as informações de forma estruturada para que profissionais da área de psicologia possam trabalhar de maneira mais eficiente.
-  <br>
-Descrição do Projeto: O objetivo é desenvolver um software que automatize a extração de informações essenciais dos relatórios clínicos, como diagnósticos, tratamentos e evolução do paciente, dentro de um hospital psiquiátrico, organizando essas informações em um formato acessível.
-<br>Nele, o usuário poderá:
-
-- Cadastrar relatórios clínicos no banco de dados, de forma simples e ágil.
-- Consultar, atualizar e deletar relatórios cadastrados.
-- Extrair as informações essenciais dos documentos, relacionadas aos pacientes.
-- Editar as informações extraídas dos relatórios.
+<b> AdaTrade </b> é uma plataforma que permitirá que *economistas, gestores públicos e empresas* acompanhem e analisem o desempenho dos estados brasileiros no comércio exterior de maneira eficiente e acessível.
+<br>
+Descrição do Projeto: O AdaTrade é uma plataforma web que visa organizar e estruturar os dados de comércio exterior brasileiro, permitindo o acompanhamento detalhado do desempenho dos estados no mercado internacional. O sistema se baseia nos <b>dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>, oferecendo uma interface interativa para análise e tomada de decisão.  
 </div>
 <br>
 
-[A documentação completa está disponível aqui.](https://github.com/equipeAdalove/API-SEMESTRE2/wiki) 
+## *🛠️ Funcionalidades Principais*  
+O usuário poderá:  
+✅ *Visualizar estatísticas da balança comercial* (importação e exportação) de cada estado.  
+✅ *Filtrar informações por período (2014-2024), estado e setor econômico*.  
+✅ *Identificar tendências* de crescimento, estagnação ou declínio nos municípios.  
+✅ *Gerar gráficos e relatórios interativos* sobre o desempenho econômico.  
+✅ *Exportar dados e insights para análises externas*.  
 
+## *🛠️ Requisitos Técnicos*  
+📌 *Desenvolvimento baseado em Orientação a Objetos (OO)*  
+📌 *Modelagem de processos usando VPC e BPMN*  
+📌 *Backlog de Produto e Backlog de Sprint detalhados*  
+📌 *Implementação em TypeScript* utilizando IDEs especializadas  
+📌 *Revisão e otimização de código focada em estrutura de dados* 
+</div>
+<br>
 
-
-## 🛠️ Arquitetura do Sistema 
-<a id="arq"></a>
-<div>
-      Tendo em vista que a arquitetura do  <b>MindDoc Analyzer</b> precisa equilibrar os requisitos funcionais e não funcionais, como privacidade de dados, desempenho, usabilidade e a independência de APIs externas. <br>
-      Uma arquitetura modular e escalável foi desenhada com base nesses aspectos, dividida em camadas.
-
-[Leia mais sobre a arquitetura do software!](https://github.com/equipeAdalove/API-SEMESTRE2/wiki/3.-Arquitetura-do-Sistema) 
 
 <br>
 
