@@ -190,7 +190,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 <div align="center">
       
 |   Rank  | Prioridade |                          User Story                             | Sprint | Status  |
-| :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
+| :-----: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
 |  1  | Alta | Como cliente, desejo que os dados sejam normalizados e limpos utilizando o Google Colab, para garantir a qualidade das informações antes da análise. | 1 |  |
 |  2  | Alta | Como cliente, quero um relatório documentando os problemas encontrados e as correções feitas na base de dados, para que eu tenha visibilidade sobre a qualidade dos dados, e possa avaliar possíveis impactos na análise final. | 1 |   |
 |  3  | Alta | Como cliente, quero armazenar os dados tratados em um banco de dados relacional, para facilitar consultas futuras. | 1 | |
