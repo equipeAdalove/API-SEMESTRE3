@@ -13,10 +13,8 @@
   <a href ="#prototipo"> Protótipo </a>  | 
   <a href = "#demo"> Demonstração </a>  |
   <a href = "#sprint"> Sprints </a> |
-  <a href = "#requisitos"> Requisitos </a> | 
   <a href = "#metodologia"> Metodologia </a> |  
   <a href = "#backlog"> Backlog do Produto </a>  | 
-  <a href ="#roadmap"> Roadmap </a>  |
   <a href = "#equipe"> Equipe </a>  |
    <a href = "#cliente"> Cliente </a>  |     
   <a href = "#docentes"> Docentes </a>
@@ -106,14 +104,14 @@ O usuário poderá:
 <div align="center">
 <table>
   <tr>
-    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20Dashboard%20(Dark).png"> </th>
-    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20Dashboard%20(Dark)%20(1).png"> </th>
-    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Dark/Final%20-%20NCM%20(Dark).png"> </th>
+    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/Sprint-1/Prot%C3%B3tipo/Dark/Final%20-%20Dashboard%20(Dark).png"> </th>
+    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/Sprint-1/Prot%C3%B3tipo/Dark/Final%20-%20Dashboard%20(Dark)%20(1).png"> </th>
+    <th> <img src = "https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/Sprint-1/Prot%C3%B3tipo/Dark/Final%20-%20NCM%20(Dark).png"> </th>
   </tr>
   <tr>
-    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Light/Final%20-%20Dashboard%20(Light).png"> </td>
-    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Light/Final%20-%20Dashboard%20(Light)%20(1).png"> </td>
-    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/main/Prot%C3%B3tipo/Light/Final%20-%20NCM%20(Light).png"> </td>
+    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/Sprint-1/Prot%C3%B3tipo/Light/Final%20-%20Dashboard%20(Light).png"> </td>
+    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/Sprint-1/Prot%C3%B3tipo/Light/Final%20-%20Dashboard%20(Light)%20(1).png"> </td>
+    <td> <img src ="https://github.com/equipeAdalove/Front-API-SEMESTRE3/blob/Sprint-1/Prot%C3%B3tipo/Light/Final%20-%20NCM%20(Light).png"> </td>
   </tr>
 </table>
 </div>
@@ -128,6 +126,11 @@ O usuário poderá:
 <a id="demo"></a>
 
 ### 📂 Sprint 1:
+
+
+https://github.com/user-attachments/assets/d0400ddc-ffbd-4138-b4df-976e3ecbf18e
+
+
 -----------------------------
 
 <br>
@@ -151,7 +154,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 🔐 SPRINT 3:  Ainda não iniciada! <br>
 
 <br>
-
+<!---
 ## 🖇️ Requisitos
 <a id="requisitos"></a>
 
@@ -208,6 +211,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 <br>
       
+<!--
 ## ⛰️ Roadmap de entregas 
 <a id="roadmap"></a>
 <!---img align = "center" src = Documentação/Assets/Slides/6.jpg---->
@@ -224,12 +228,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Renan Tomasi | Scrum Master | <a href="https://github.com/renan21-tg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
 | Matheus Germano | Product Owner | <a href="https://github.com/m-germano"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Raphaela Monteiro  | Dev Team | <a href="https://github.com/raphaelamonteiro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/raphaelamonteiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Vitor Ribeiro | Dev Team | <a href="https://github.com/ribeirovitor04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Angelina Borroni | Dev Team  | <a href="https://github.com/borroniff"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/angelina-borroni-ferreira-833a4b301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Maria Fernanda Hansen | Dev Team | <a href="https://github.com/Madhs31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/maria-fernanda-diniz-0724122ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Ramon Amorim da Silva | Dev Team | <a href="https://github.com/ramonads42"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-
+| Raphaela Monteiro  | Dev Team | <a href="https://github.com/raphaelamonteiro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/raphaelamonteiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Vitor Ribeiro | Dev Team | <a href="https://github.com/ribeirovitor04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 <br>
 
 ## 🚀 Cliente: 
