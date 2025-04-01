@@ -41,6 +41,8 @@
 
 <img align="center" alt="Raphs-Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
+<img align="center" alt="Raphs-Colab" height="60" width="60" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+
 <img align="center" alt="Raphs-Postgre" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
 
 <img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
@@ -139,7 +141,7 @@ https://github.com/user-attachments/assets/d0400ddc-ffbd-4138-b4df-976e3ecbf18e
 <a id="metodologia"></a>
 Este é um projeto pedagógico alicerçado na Metodologia API, baseado na metodologia ágil SCRUM, para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. <br>
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). <br>
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints. <br>
 [Ler mais](https://fatecsjc-prd.azurewebsites.net/aprendizagem-por-projetos-integrados)
 
 <br>
@@ -147,9 +149,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 ## 📅 Sprints 
 <a id="sprint"></a>
 
-⏳ SPRINT 1:  Em andamento! <br>
+✅ SPRINT 1:  Concluída! <br>
 
-🔐 SPRINT 2:  Ainda não iniciada! <br>
+⏳ SPRINT 2:  Em andamento! <br>
 
 🔐 SPRINT 3:  Ainda não iniciada! <br>
 
