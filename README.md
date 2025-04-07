@@ -196,10 +196,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
       
 |   Rank  | Prioridade |                          User Story                             | Sprint | Status  |
 | :-----: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
-|  1  | Alta | Como cliente, desejo que os dados sejam normalizados e limpos utilizando o Google Colab, para garantir a qualidade das informações antes da análise. | 1 |  |
-|  2  | Alta | Como cliente, quero um relatório documentando os problemas encontrados e as correções feitas na base de dados, para que eu tenha visibilidade sobre a qualidade dos dados, e possa avaliar possíveis impactos na análise final. | 1 |   |
-|  3  | Alta | Como cliente, quero armazenar os dados tratados em um banco de dados relacional, para facilitar consultas futuras. | 1 | |
-|  4  | Alta | Como cliente, quero testar a comunicação entre o Front-end e o Back-end com uma funcionalidade mínima implementada para garantir a integração entre as partes. | 1|  |
+|  1  | Alta | Como cliente, desejo que os dados sejam normalizados e limpos utilizando o Google Colab, para garantir a qualidade das informações antes da análise. | 1 | ✅ |
+|  2  | Alta | Como cliente, quero um relatório documentando os problemas encontrados e as correções feitas na base de dados, para que eu tenha visibilidade sobre a qualidade dos dados, e possa avaliar possíveis impactos na análise final. | 1 | ✅ |
+|  3  | Alta | Como cliente, quero armazenar os dados tratados em um banco de dados relacional, para facilitar consultas futuras. | 1 | ✅ |
+|  4  | Alta | Como cliente, quero testar a comunicação entre o Front-end e o Back-end com uma funcionalidade mínima implementada para garantir a integração entre as partes. | 1| ✅ |
 |  5  | Alta | Como  usuário do sistema, quero visualizar os dados de exportação/importação segmentados por Estados, para facilitar minha análise. | 2 |   |
 |  6  | Alta | Como cliente, quero que a API seja estruturada para permitir consultas detalhadas ao banco de dados para obter informações mais precisas. | 2 |  |
 |  7  | Alta | Como usuário do sistema, quero pesquisar cargas por código NCM, para encontrar informações específicas rapidamente. | 2 | |
