@@ -223,7 +223,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 <div align="center">
       
-## 🥇 Equipe 
+## 🫧 AdaTeam 
 <a id="equipe"></a>
 
 |      Membro      |    Função     |                            Github                            |                           Linkedin                           |
