@@ -45,12 +45,15 @@
 
 <img align="center" alt="Raphs-Postgre" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
 
+<img align="center" alt="Raphs-Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+
 <img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
 <img align="center" alt="Raphs-VsCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
 <img align="center" alt="Raphs-Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-       
+
+
 </div>
 
        
@@ -151,7 +154,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 ✅ SPRINT 1:  Concluída! <br>
 
-⏳ SPRINT 2:  Em andamento! <br>
+✅ SPRINT 2:  Concluída! <br>
 
 🔐 SPRINT 3:  Ainda não iniciada! <br>
 
@@ -200,10 +203,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  2  | Alta | Como cliente, quero um relatório documentando os problemas encontrados e as correções feitas na base de dados, para que eu tenha visibilidade sobre a qualidade dos dados, e possa avaliar possíveis impactos na análise final. | 1 | ✅ |
 |  3  | Alta | Como cliente, quero armazenar os dados tratados em um banco de dados relacional, para facilitar consultas futuras. | 1 | ✅ |
 |  4  | Alta | Como cliente, quero testar a comunicação entre o Front-end e o Back-end com uma funcionalidade mínima implementada para garantir a integração entre as partes. | 1| ✅ |
-|  5  | Alta | Como  usuário do sistema, quero visualizar os dados de exportação/importação segmentados por Estados, para facilitar minha análise. | 2 |   |
-|  6  | Alta | Como cliente, quero que a API seja estruturada para permitir consultas detalhadas ao banco de dados para obter informações mais precisas. | 2 |  |
-|  7  | Alta | Como usuário do sistema, quero pesquisar cargas por código NCM, para encontrar informações específicas rapidamente. | 2 | |
-|  8  | Alta | Como usuário do sistema, eu quero um painel que classifique as exportações por meio de transporte (rodoviário, marítimo, etc.) para entender padrões logísticos. | 2 | |
+|  5  | Alta | Como  usuário do sistema, quero visualizar os dados de exportação/importação segmentados por Estados, para facilitar minha análise. | 2 | ✅ |
+|  6  | Alta | Como cliente, quero que a API seja estruturada para permitir consultas detalhadas ao banco de dados para obter informações mais precisas. | 2 | ✅ |
+|  7  | Alta | Como usuário do sistema, quero pesquisar cargas por código NCM, para encontrar informações específicas rapidamente. | 2 | ✅ |
+|  8  | Alta | Como usuário do sistema, eu quero um painel que classifique as exportações por meio de transporte (rodoviário, marítimo, etc.) para entender padrões logísticos. | 2 | ✅ |
 |  9  | Alta | Como usuário do sistema, quero filtrar os dados por período(2014 a 2024), para realizar análises históricas. | 3 | |
 | 10  | Alta | Como cliente, quero exportar os dados do dashboard para outras ferramentas, como PowerBI, para que eu possa aprofundar minhas análises e obter insights mais detalhados. | 3 | |
 | 11  | Média | Como usuário do sistema, quero visualizar um mapa interativo, exibindo fluxos de exportação, para que eu possa entender melhor os mercados envolvidos e analisar tendências comerciais. | 3 |  |
