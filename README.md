@@ -135,6 +135,11 @@ O usuário poderá:
 
 https://github.com/user-attachments/assets/d0400ddc-ffbd-4138-b4df-976e3ecbf18e
 
+### 📂 Sprint 2:
+
+
+https://github.com/user-attachments/assets/c17511e2-1cb0-4193-966e-0ad56754bb7d
+
 
 -----------------------------
 
