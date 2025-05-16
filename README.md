@@ -78,9 +78,11 @@ O objetivo deste projeto é desenvolver uma plataforma web que disponibilize inf
 ## 🫧 MVP (Minimal Viable Product) 
 <a id="mvp"></a>
 <div>
-<b> AdaTrade </b> é uma plataforma que permitirá que *economistas, gestores públicos e empresas* acompanhem e analisem o desempenho dos estados brasileiros no comércio exterior de maneira eficiente e acessível.
+<b> 💜 AdaTrade </b> é uma plataforma que permitirá que <b>economistas, gestores públicos e empresas </b> acompanhem e analisem o desempenho dos estados brasileiros no comércio exterior de maneira eficiente e acessível.
 <br>
-Descrição do Projeto: O AdaTrade é uma plataforma web que visa organizar e estruturar os dados de comércio exterior brasileiro, permitindo o acompanhamento detalhado do desempenho dos estados no mercado internacional. O sistema se baseia nos <b>dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>, oferecendo uma interface interativa para análise e tomada de decisão.  
+Descrição do Projeto: A plataforma web visa organizar e estruturar os dados de comércio exterior brasileiro, permitindo o acompanhamento detalhado do desempenho dos estados no mercado internacional.
+<br>
+O sistema se baseia nos <b>dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>, oferecendo uma interface interativa para análise e tomada de decisão.  
 </div>
 <br>
 
@@ -161,7 +163,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 ✅ SPRINT 2:  Concluída! <br>
 
-🔐 SPRINT 3:  Ainda não iniciada! <br>
+⌛ SPRINT 3: Em progresso! <br>
 
 <br>
 <!---
