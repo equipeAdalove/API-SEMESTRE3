@@ -66,7 +66,7 @@
 <br>
 <br>
 
-> Status do Projeto: Em andamento! ⌛
+> Status do Projeto: Finalizado! ✔️
 
 <br>
 
@@ -101,6 +101,20 @@ O usuário poderá:
 📌 *Implementação em TypeScript* utilizando IDEs especializadas  
 📌 *Revisão e otimização de código focada em estrutura de dados* 
 </div>
+<br>
+
+
+<br>
+
+## 📚 Documentação e Manual do Usuário
+
+A documentação técnica e o manual do usuário estão disponíveis na pasta [`Documentação`](./Documentação) deste repositório:
+
+- [📄 Documentação do Projeto (PDF)](./Documentação/Documentação%20-%20AdaTrade.pdf)
+- [👤 Manual do Usuário (PDF)](./Documentação/Manual%20do%20Usuário.pdf)
+
+Esses arquivos fornecem uma visão detalhada sobre o funcionamento do sistema, arquitetura, endpoints da API, bem como instruções de uso para usuários finais.
+
 <br>
 
 
@@ -163,7 +177,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 ✅ SPRINT 2:  Concluída! <br>
 
-⌛ SPRINT 3: Em progresso! <br>
+✅ SPRINT 3:  Concluída! <br>
 
 <br>
 <!---
@@ -214,10 +228,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  6  | Alta | Como cliente, quero que a API seja estruturada para permitir consultas detalhadas ao banco de dados para obter informações mais precisas. | 2 | ✅ |
 |  7  | Alta | Como usuário do sistema, quero pesquisar cargas por código NCM, para encontrar informações específicas rapidamente. | 2 | ✅ |
 |  8  | Alta | Como usuário do sistema, eu quero um painel que classifique as exportações por meio de transporte (rodoviário, marítimo, etc.) para entender padrões logísticos. | 2 | ✅ |
-|  9  | Alta | Como usuário do sistema, quero filtrar os dados por período(2014 a 2024), para realizar análises históricas. | 3 | |
-| 10  | Alta | Como cliente, quero exportar os dados do dashboard para outras ferramentas, como PowerBI, para que eu possa aprofundar minhas análises e obter insights mais detalhados. | 3 | |
-| 11  | Média | Como usuário do sistema, quero visualizar um mapa interativo, exibindo fluxos de exportação, para que eu possa entender melhor os mercados envolvidos e analisar tendências comerciais. | 3 |  |
-| 12  | Baixa | Como usuário do sistema, quero que a aplicação seja hospedada na nuvem, para que eu possa acessá-la remotamente com maior disponibilidade e confiabilidade. | 3 | |
+|  9  | Alta | Como usuário do sistema, quero filtrar os dados por período(2014 a 2024), para realizar análises históricas. | 3 | ✅ |
+| 10  | Alta | Como cliente, quero exportar os dados do dashboard para outras ferramentas, como PowerBI, para que eu possa aprofundar minhas análises e obter insights mais detalhados. | 3 | ✅ |
+| 11  | Média | Como usuário do sistema, quero visualizar um mapa interativo, exibindo fluxos de exportação, para que eu possa entender melhor os mercados envolvidos e analisar tendências comerciais. | 3 | ✅ |
+| 12  | Baixa | Como usuário do sistema, quero que a aplicação seja hospedada na nuvem, para que eu possa acessá-la remotamente com maior disponibilidade e confiabilidade. | 3 | ✅ |
 
 </div>
 
